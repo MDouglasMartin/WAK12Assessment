@@ -1,0 +1,13 @@
+﻿OrgIndexId,GradYear,SchoolYear,StudentGroup,GradeLevel,DAT,CountExpected,CountMet,CountPrevPassed,PctMet_OSPI,PctMet,L1,L2,L3,L4,PctFoundational,CountFoundational,PctAltAssessment,DataAsOf,PctMet_Flag,PctMet_Delta
+1566,2025,2014-15,All Students,3,LtGt,,,,<10%,0.1,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+1566,2025,2014-15,Homeless,3,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+1566,2025,2014-15,Low-Income,3,LtGt,,,,<10%,0.1,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+1566,2024,2014-15,All Students,4,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+1566,2024,2014-15,Homeless,4,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+1566,2024,2014-15,Low-Income,4,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+1566,2023,2014-15,All Students,5,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+1566,2023,2014-15,Homeless,5,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+1566,2023,2014-15,Low-Income,5,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+1566,,2014-15,All Students,99,LtGt,,,,<10%,0.1,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+1566,,2014-15,Homeless,99,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+1566,,2014-15,Low-Income,99,LtGt,,,,<10%,0.1,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
