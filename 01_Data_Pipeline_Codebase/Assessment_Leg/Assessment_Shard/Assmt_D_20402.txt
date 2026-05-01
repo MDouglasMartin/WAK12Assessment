@@ -1,0 +1,188 @@
+﻿OrgIndexId|GradYear|SchoolYear|StudentGroup|GradeLevel|DAT|CountExpected|CountMet|CountPrevPassed|PctMet_OSPI|PctMet|L1|L2|L3|L4|PctFoundational|CountFoundational|PctAltAssessment|DataAsOf|PctMet_Flag|PctMet_Delta
+93|2025|2014-15|All Students|3|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2025|2014-15|Low-Income|3|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2024|2014-15|All Students|4|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2024|2014-15|Homeless|4|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2024|2014-15|Low-Income|4|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2023|2014-15|All Students|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2023|2014-15|Homeless|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2023|2014-15|Low-Income|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2021|2014-15|All Students|7|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2021|2014-15|Low-Income|7|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2020|2014-15|All Students|8|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2020|2014-15|Low-Income|8|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2017|2014-15|All Students|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2017|2014-15|Low-Income|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93||2014-15|All Students|99|ERR_None|45|24|45|53.3%|0.533333|0.2222222222222|0.1333333333333|0.2888888888888|0.2444444444444||||09/09/2022 12:00:00 AM|OK|3.33333200042141E-07
+93||2014-15|Homeless|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93||2014-15|Low-Income|99|ERR_None|24|10|24|41.7%|0.416667|0.2500000000000|0.2083333333333|0.2916666666666|0.1250000000000||||09/09/2022 12:00:00 AM|OK|-3.33333399993307E-07
+93|2026|2015-16|All Students|3|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2026|2015-16|Low-Income|3|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2025|2015-16|All Students|4|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2025|2015-16|Low-Income|4|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2024|2015-16|All Students|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2024|2015-16|Low-Income|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2023|2015-16|All Students|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2023|2015-16|Low-Income|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2021|2015-16|All Students|8|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2021|2015-16|Low-Income|8|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2018|2015-16|All Students|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2018|2015-16|Low-Income|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93||2015-16|All Students|99|ERR_None|36|13|36|36.1%|0.361111|0.3333333333333|0.2500000000000|0.1666666666666|0.1944444444444||||09/09/2022 12:00:00 AM|OK|1.11111000011821E-07
+93||2015-16|Low-Income|99|ERR_None|22|6|22|27.3%|0.272727|0.5000000000000|0.1818181818181|0.1363636363636|0.1363636363636||||09/09/2022 12:00:00 AM|OK|2.72727199990275E-07
+93|2027|2016-17|All Students|3|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2027|2016-17|Low-Income|3|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2026|2016-17|All Students|4|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2026|2016-17|Low-Income|4|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2025|2016-17|All Students|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2025|2016-17|Low-Income|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2024|2016-17|All Students|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2024|2016-17|Low-Income|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2023|2016-17|All Students|7|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2023|2016-17|Low-Income|7|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2022|2016-17|All Students|8|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2022|2016-17|Low-Income|8|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2019|2016-17|All Students|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93||2016-17|All Students|99|ERR_None|36|14|36|38.9%|0.388889|0.3611111111111|0.1944444444444|0.2222222222222|0.1666666666666||||09/09/2022 12:00:00 AM|OK|-1.11111199962988E-07
+93||2016-17|Low-Income|99|ERR_None|23|7|23|30.4%|0.304348|0.4782608695652|0.2173913043478|0.2173913043478|0.0869565217391||||09/09/2022 12:00:00 AM|OK|-1.7391310003223E-07
+93|2028|2017-18|All Students|3|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2028|2017-18|Low-Income|3|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2027|2017-18|All Students|4|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2027|2017-18|Low-Income|4|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2026|2017-18|All Students|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2026|2017-18|Low-Income|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2025|2017-18|All Students|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2025|2017-18|Low-Income|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2024|2017-18|All Students|7|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2024|2017-18|Low-Income|7|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2023|2017-18|All Students|8|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2023|2017-18|Low-Income|8|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2021|2017-18|All Students|10|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2021|2017-18|Low-Income|10|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93||2017-18|All Students|99|ERR_None|43|14|43|32.6%|0.325581|0.3255813953488|0.3255813953488|0.2325581395348|0.0930232558139||||09/09/2022 12:00:00 AM|OK|3.95348699999687E-07
+93||2017-18|Low-Income|99|ERR_None|28|7|28|25.0%|0.25|0.4285714285714|0.3214285714285|0.1785714285714|0.0714285714285||||09/09/2022 12:00:00 AM|OK|-1.00031094518727E-13
+93|2029|2018-19|All Students|3|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2029|2018-19|Low-Income|3|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2028|2018-19|All Students|4|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2028|2018-19|Low-Income|4|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2027|2018-19|All Students|5|ERR_None|11|5|11|45.5%|0.454545|0.5454545454545|0.0000000000000|0.1818181818181|0.2727272727272||||09/09/2022 12:00:00 AM|OK|4.54545300010434E-07
+93|2027|2018-19|Low-Income|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2026|2018-19|All Students|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2026|2018-19|Foster Care|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2026|2018-19|Low-Income|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2025|2018-19|All Students|7|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2025|2018-19|Foster Care|7|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2025|2018-19|Low-Income|7|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2024|2018-19|All Students|8|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2024|2018-19|Low-Income|8|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2022|2018-19|All Students|10|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2022|2018-19|Low-Income|10|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93||2018-19|All Students|99|ERR_None|47|14|47|29.8%|0.297872|0.5106382978723|0.1702127659574|0.1702127659574|0.1276595744680||||09/09/2022 12:00:00 AM|OK|3.40425399980582E-07
+93||2018-19|Foster Care|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93||2018-19|Low-Income|99|ERR_None|28|3|28|10.7%|0.107143|0.6785714285714|0.2142857142857|0.0714285714285|0.0357142857142||||09/09/2022 12:00:00 AM|OK|-1.42857300003407E-07
+93|2030|2020-21|All Students|4|ERR_None|11|5|11|45.5%|0.454545|0.2727272727272|0.2727272727272|0.4545454545454|0.0000000000000||||09/09/2022 12:00:00 AM|OK|4.54545400041528E-07
+93|2030|2020-21|Low-Income|4|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2029|2020-21|All Students|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2029|2020-21|Foster Care|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2029|2020-21|Homeless|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2029|2020-21|Low-Income|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2028|2020-21|All Students|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2028|2020-21|Foster Care|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2028|2020-21|Low-Income|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2027|2020-21|All Students|7|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2027|2020-21|Low-Income|7|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2026|2020-21|All Students|8|ERR_None|11|5|11|45.5%|0.454545|0.4545454545454|0.0909090909090|0.1818181818181|0.2727272727272||||09/09/2022 12:00:00 AM|OK|4.54545300010434E-07
+93|2026|2020-21|Low-Income|8|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2025|2020-21|All Students|9|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2025|2020-21|Low-Income|9|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2023|2020-21|All Students|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2023|2020-21|Homeless|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2023|2020-21|Low-Income|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93||2020-21|All Students|99|ERR_None|52|17|52|32.7%|0.326923|0.5000000000000|0.1730769230769|0.2115384615384|0.1153846153846||||09/09/2022 12:00:00 AM|OK|7.69229999697529E-08
+93||2020-21|Foster Care|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93||2020-21|Homeless|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93||2020-21|Low-Income|99|ERR_None|24|6|24|25.0%|0.25|0.6250000000000|0.1250000000000|0.1666666666666|0.0833333333333||||09/09/2022 12:00:00 AM|OK|-1.00031094518727E-13
+93|2032|2021-22|All Students|3|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2032|2021-22|Low-Income|3|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2031|2021-22|All Students|4|ERR_None|11|3|11|27.3%|0.272727|0.0909090909090|0.6363636363636|0.2727272727272|0.0000000000000||||09/09/2022 12:00:00 AM|OK|2.72727199990275E-07
+93|2031|2021-22|Low-Income|4|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2030|2021-22|All Students|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2030|2021-22|Foster Care|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2030|2021-22|Homeless|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2030|2021-22|Low-Income|5|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2029|2021-22|All Students|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2029|2021-22|Foster Care|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2029|2021-22|Low-Income|6|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2028|2021-22|All Students|7|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2028|2021-22|Low-Income|7|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2027|2021-22|All Students|8|ERR_None|11|4|11|36.4%|0.363636|0.6363636363636|0.0000000000000|0.0909090909090|0.2727272727272||||09/09/2022 12:00:00 AM|OK|3.63636199984807E-07
+93|2027|2021-22|Low-Income|8|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2025|2021-22|All Students|10|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93|2025|2021-22|Low-Income|10|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93||2021-22|All Students|99|ERR_None|58|17|58|29.3%|0.293103|0.4482758620689|0.2586206896551|0.1896551724137|0.1034482758620||||09/09/2022 12:00:00 AM|OK|4.48275700004608E-07
+93||2021-22|Foster Care|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93||2021-22|Homeless|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+93||2021-22|Low-Income|99|ERR_None|27|6|27|22.2%|0.222222|0.5555555555555|0.2222222222222|0.1111111111111|0.1111111111111||||09/09/2022 12:00:00 AM|OK|2.22222200002564E-07
+93|2033|2022-23|All Students|3|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2033|2022-23|Homeless|3|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2033|2022-23|Low-Income|3|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2032|2022-23|All Students|4|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2032|2022-23|Low-Income|4|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2031|2022-23|All Students|5|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2031|2022-23|Low-Income|5|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2030|2022-23|All Students|6|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2030|2022-23|Foster Care|6|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2030|2022-23|Homeless|6|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2030|2022-23|Low-Income|6|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2029|2022-23|All Students|7|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2029|2022-23|Low-Income|7|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2028|2022-23|All Students|8|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2028|2022-23|Low-Income|8|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2026|2022-23|All Students|10|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93|2026|2022-23|Low-Income|10|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93||2022-23|All Students|99|ERR_None|42|9|42|21.40%|0.214286|0.4047619050000|0.3571428570000|0.0952380950000|0.1190476190000||||9/8/2023|OK|-2.86000000015996E-07
+93||2022-23|Foster Care|99|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93||2022-23|Homeless|99|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+93||2022-23|Low-Income|99|LtGt||||<10%|0.1||||||||9/8/2023|No L3L4|
+93|2034|2023-24|All Students|3|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2034|2023-24|Low-Income|3|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2033|2023-24|All Students|4|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2033|2023-24|Homeless|4|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2033|2023-24|Low-Income|4|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2033|2023-24|Migrant|4|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2032|2023-24|All Students|5|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2032|2023-24|Low-Income|5|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2031|2023-24|All Students|6|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2031|2023-24|Low-Income|6|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2030|2023-24|All Students|7|LtGt|||||0.3|||||0.5|||Sep  9 2024 12:00AM|No L3L4|
+93|2030|2023-24|Homeless|7|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2030|2023-24|Low-Income|7|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2029|2023-24|All Students|8|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2029|2023-24|Low-Income|8|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2027|2023-24|All Students|10|LtGt|||||0.3|||||0.3|||Sep  9 2024 12:00AM|No L3L4|
+93|2027|2023-24|Low-Income|10|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93||2023-24|All Students|99|ERR_None|49|6|49|0.122|0.122449|0.4489800000000|0.3877550000000|0.0612245000000|0.0612245000000|0.51|25||Sep  9 2024 12:00AM|OK|0
+93||2023-24|Homeless|99|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93||2023-24|Low-Income|99|LtGt|||||0.1|||||0.379|11||Sep  9 2024 12:00AM|No L3L4|
+93||2023-24|Migrant|99|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+93|2035|2024-25|All Students|3|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2035|2024-25|Low-Income|3|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2034|2024-25|All Students|4|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2034|2024-25|Low-Income|4|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2033|2024-25|All Students|5|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2033|2024-25|Homeless|5|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2033|2024-25|Low-Income|5|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2032|2024-25|All Students|6|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2032|2024-25|Low-Income|6|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2031|2024-25|All Students|7|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2031|2024-25|Low-Income|7|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2030|2024-25|All Students|8|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2030|2024-25|Homeless|8|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2030|2024-25|Low-Income|8|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2028|2024-25|All Students|10|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2028|2024-25|Low-Income|10|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93|2028|2024-25|Migrant|10|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93||2024-25|All Students|99|ERR_None|47|11|47|0.234|0.234043|0.4468090000000|0.2978720000000|0.2340430000000|0.0000000000000|0.532|25|0|Sep  3 2025 12:00AM|OK|0
+93||2024-25|Homeless|99|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+93||2024-25|Low-Income|99|ERR_None|27|4|27|0.148|0.148148|0.5185190000000|0.2962960000000|0.1481480000000|0.0000000000000|0.444|12|0|Sep  3 2025 12:00AM|OK|0
+93||2024-25|Migrant|99|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|

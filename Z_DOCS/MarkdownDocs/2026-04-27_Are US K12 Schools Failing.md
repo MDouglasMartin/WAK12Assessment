@@ -1,0 +1,10 @@
+I'm looking at Washington State data comparing the "all" subgroup performance against the "free and reduced lunch" (FRL) subgroup.  I've not run a regression analysis on the data but a spot check of the over 800 schools for the last 10 years in Washington is showing some large High Poverty Schools scoring in the 80% met range (a rare stratus for any school) and many others where the FRL is besting the All subgroup in performance.  This might be due to Washington subsidizing FRL students.  
+Also challenging your narrative are the performance of private schools funded by charities... which based on second hand information are two years ahead of some of our higher performing public schools.  
+Personally, I volunteered in a high poverty HS tutoring 10th grade math and asked permission to conduct a questionnaire/test of the HS students based on what I was encountering with those I was tutoring.  About 40% didn't know their times table... a 3rd grade requisite proficiency.  It went downhill from there.  Less than 12% met MINIMUM standard when tested that year.  
+Ironically or tragically... the questionnaire I prepared also exposed two other points:  about 80% aspired to a STEM related/dependent career... and also about 80% agreed that "they were not good at math" but "they knew they needed to get better."  The 3rd grade pass rate of that group was over 40%.  
+I've also had access to interim testing done in the schools which aligns with what I was seeing where I volunteered:  about 60-80% of students somewhere 3-6 YEARS behind.  
+My K12 education began in a Volksschule in Munich.  The expectations of 1st and 2nd grade were years ahead of the US K12 and designed to familiarize students with patterns they would encounter in HS.
+While poverty no doubt can be "a" factor... I question whether it is "the" factor in the us K12 failure.  More likely to me is the Socialism cum Unionization of Public K12 which has removed all accountability from teachers in making it a success.  
+
+
+

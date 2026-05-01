@@ -1,0 +1,6 @@
+﻿Ticket_ID,Domain,Category,Claim_Summary,Vetted_Status,Authority_Ref,Source_File
+TKT-001,System_Obfuscation,Process_Defect,Collateral Scaffolding Deficit: Math receives strictly siloed instruction time while ELA receives cross-curricular collateral practice.,Unvetted,NULL,Conversation_History
+TKT-002,Governance,Metric,L4 Cognitive Level is the only valid proxy for the statutory requirement of 'Civic Engagement.',Vetted,RCW 28A.150.210,02_Gov_References_Ledger.md
+TKT-003,Governance,Narrative_Shift,ESSA removed NCLB operator accountability allowing the system to use FERPA to shield aggregate process defects as 'student privacy.',Vetted,ESSA (Pub.L. 114-95) & FERPA (20 U.S.C. § 1232g),Conversation W Claud Initial Setup.docx
+TKT-004,Assessment,Metric,Averaging grade cohorts inflates perceived pipeline success by approx 20 points masking the high school bottleneck.,Vetted,05_DATA_OBFUSCATION_AND_SCAFFOLD_AUDIT,05_DATA_OBFUSCATION_AND_SCAFFOLD_AUDIT.md
+TKT-005,System_Obfuscation,Constraint,Operator Capability Deficit: K-8 educators are not required to demonstrate L4 math mastery forcing procedural over conceptual instruction.,Pending_Data,University Gen-Ed Requirements,Conversation_History

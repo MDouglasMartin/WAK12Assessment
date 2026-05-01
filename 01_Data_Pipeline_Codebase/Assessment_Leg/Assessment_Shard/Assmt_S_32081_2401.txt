@@ -1,0 +1,22 @@
+﻿OrgIndexId|GradYear|SchoolYear|StudentGroup|GradeLevel|DAT|CountExpected|CountMet|CountPrevPassed|PctMet_OSPI|PctMet|L1|L2|L3|L4|PctFoundational|CountFoundational|PctAltAssessment|DataAsOf|PctMet_Flag|PctMet_Delta
+386|2034|2024-25|All Students|4|LtGt|||||0.94|||||||0|Sep  3 2025 12:00AM|No L3L4|
+386|2034|2024-25|Low-Income|4|LtGt|||||0.81|||||||0|Sep  3 2025 12:00AM|No L3L4|
+386|2034|2024-25|Military Parent|4|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+386|2033|2024-25|All Students|5|ERR_None|56|53|56|0.946|0.946428|0.0000000000000|0.0535714000000|0.1428570000000|0.8035710000000|1||0|Sep  3 2025 12:00AM|OK|0
+386|2033|2024-25|Homeless|5|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+386|2033|2024-25|Low-Income|5|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+386|2033|2024-25|Military Parent|5|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+386|2032|2024-25|All Students|6|LtGt|||||0.96|||||||0|Sep  3 2025 12:00AM|No L3L4|
+386|2032|2024-25|Low-Income|6|LtGt|||||0.84|||||||0|Sep  3 2025 12:00AM|No L3L4|
+386|2032|2024-25|Military Parent|6|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+386|2031|2024-25|All Students|7|LtGt|||||0.96|||||||0|Sep  3 2025 12:00AM|No L3L4|
+386|2031|2024-25|Homeless|7|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+386|2031|2024-25|Low-Income|7|LtGt|||||0.85|||||||0|Sep  3 2025 12:00AM|No L3L4|
+386|2031|2024-25|Military Parent|7|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+386|2030|2024-25|All Students|8|ERR_None|54|47|54|0.87|0.870371|0.0370370000000|0.0925926000000|0.2407410000000|0.6296300000000|0.963||0|Sep  3 2025 12:00AM|OK|0
+386|2030|2024-25|Low-Income|8|LtGt|||||0.81|||||||0|Sep  3 2025 12:00AM|No L3L4|
+386|2030|2024-25|Military Parent|8|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+386||2024-25|All Students|99|ERR_None|306|292|306|0.954|0.954249|0.0098039200000|0.0359477000000|0.1862750000000|0.7679740000000|0.99||0|Sep  3 2025 12:00AM|OK|0
+386||2024-25|Homeless|99|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+386||2024-25|Low-Income|99|LtGt|||||0.96|||||||0|Sep  3 2025 12:00AM|No L3L4|
+386||2024-25|Military Parent|99|LtGt|||||0.7|||||||0|Sep  3 2025 12:00AM|No L3L4|

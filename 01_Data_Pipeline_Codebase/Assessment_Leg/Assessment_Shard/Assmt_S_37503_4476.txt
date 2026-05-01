@@ -1,0 +1,5 @@
+﻿OrgIndexId|GradYear|SchoolYear|StudentGroup|GradeLevel|DAT|CountExpected|CountMet|CountPrevPassed|PctMet_OSPI|PctMet|L1|L2|L3|L4|PctFoundational|CountFoundational|PctAltAssessment|DataAsOf|PctMet_Flag|PctMet_Delta
+2316|2024|2015-16|All Students|5|Lt10orNo||||No Students|||||||||09/09/2022 12:00:00 AM|No L3L4|
+2316|2024|2015-16|Low-Income|5|Lt10orNo||||No Students|||||||||09/09/2022 12:00:00 AM|No L3L4|
+2316||2015-16|All Students|99|Lt10orNo||||No Students|||||||||09/09/2022 12:00:00 AM|No L3L4|
+2316||2015-16|Low-Income|99|Lt10orNo||||No Students|||||||||09/09/2022 12:00:00 AM|No L3L4|

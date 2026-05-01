@@ -1,9 +1,0 @@
-﻿OrgIndexId,GradYear,SchoolYear,StudentGroup,GradeLevel,DAT,CountExpected,CountMet,CountPrevPassed,PctMet_OSPI,PctMet,L1,L2,L3,L4,PctFoundational,CountFoundational,PctAltAssessment,DataAsOf,PctMet_Flag,PctMet_Delta
-316,2026,2018-19,All Students,6,LtGt,,,,<8%,0.08,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
-316,2026,2018-19,Low-Income,6,LtGt,,,,<10%,0.1,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
-316,2025,2018-19,All Students,7,cross,,,,10.7%,0.107143,0.4285714285714,0.1428571428571,0.0714285714285,0.0357142857142,,,,09/09/2022 12:00:00 AM,OK,-1.42857300003407E-07
-316,2025,2018-19,Low-Income,7,LtGt,,,,<10%,0.1,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
-316,2024,2018-19,All Students,8,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
-316,2024,2018-19,Low-Income,8,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
-316,,2018-19,All Students,99,ERR_None,76,6,76,7.9%,0.0789474,0.5000000000000,0.1447368421052,0.0657894736842,0.0131578947368,,,,09/09/2022 12:00:00 AM,OK,-3.1578999998283E-08
-316,,2018-19,Low-Income,99,LtGt,,,,<8%,0.08,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,

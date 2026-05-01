@@ -1,0 +1,6 @@
+﻿OrgIndexId|GradYear|SchoolYear|StudentGroup|GradeLevel|DAT|CountExpected|CountMet|CountPrevPassed|PctMet_OSPI|PctMet|L1|L2|L3|L4|PctFoundational|CountFoundational|PctAltAssessment|DataAsOf|PctMet_Flag|PctMet_Delta
+655|2034|2023-24|All Students|3|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+655|2032|2023-24|All Students|5|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+655|2032|2023-24|Low-Income|5|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+655||2023-24|All Students|99|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+655||2023-24|Low-Income|99|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|

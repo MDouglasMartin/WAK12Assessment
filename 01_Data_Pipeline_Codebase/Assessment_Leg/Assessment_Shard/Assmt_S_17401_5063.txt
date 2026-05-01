@@ -1,0 +1,21 @@
+﻿OrgIndexId|GradYear|SchoolYear|StudentGroup|GradeLevel|DAT|CountExpected|CountMet|CountPrevPassed|PctMet_OSPI|PctMet|L1|L2|L3|L4|PctFoundational|CountFoundational|PctAltAssessment|DataAsOf|PctMet_Flag|PctMet_Delta
+1288|2017|2014-15|All Students|11|LtGt||||<3%|0.03||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288|2017|2014-15|Homeless|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288|2017|2014-15|Low-Income|11|LtGt||||<4%|0.04||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288||2014-15|All Students|99|LtGt||||<3%|0.03||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288||2014-15|Homeless|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288||2014-15|Low-Income|99|LtGt||||<4%|0.04||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288|2018|2015-16|All Students|11|LtGt||||<3%|0.03||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288|2018|2015-16|Homeless|11|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288|2018|2015-16|Low-Income|11|LtGt||||<4%|0.04||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288|2018|2015-16|Migrant|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288||2015-16|All Students|99|LtGt||||<3%|0.03||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288||2015-16|Homeless|99|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288||2015-16|Low-Income|99|LtGt||||<4%|0.04||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288||2015-16|Migrant|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288|2019|2016-17|All Students|11|LtGt||||<3%|0.03||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288|2019|2016-17|Homeless|11|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288|2019|2016-17|Low-Income|11|LtGt||||<4%|0.04||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288||2016-17|All Students|99|LtGt||||<3%|0.03||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288||2016-17|Homeless|99|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+1288||2016-17|Low-Income|99|LtGt||||<4%|0.04||||||||09/09/2022 12:00:00 AM|No L3L4|

@@ -1,0 +1,11 @@
+﻿OrgIndexId|GradYear|SchoolYear|StudentGroup|GradeLevel|DAT|CountExpected|CountMet|CountPrevPassed|PctMet_OSPI|PctMet|L1|L2|L3|L4|PctFoundational|CountFoundational|PctAltAssessment|DataAsOf|PctMet_Flag|PctMet_Delta
+471|2030|2024-25|All Students|8|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+471|2030|2024-25|Low-Income|8|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+471|2028|2024-25|All Students|10|cross||||0.057|0.0566038|0.4622640000000|0.1698110000000|0.0471698000000|0.0094339600000|0.226||0|Sep  3 2025 12:00AM|OK|-4.00000000067013E-08
+471|2028|2024-25|Foster Care|10|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+471|2028|2024-25|Homeless|10|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+471|2028|2024-25|Low-Income|10|LtGt|||||0.05|||||0.158||0|Sep  3 2025 12:00AM|No L3L4|
+471||2024-25|All Students|99|ERR_None|107|6|107|0.056|0.0560748|0.4672900000000|0.1682240000000|0.0467290000000|0.0093457900000|0.224|24|0|Sep  3 2025 12:00AM|OK|-1.00000000016753E-08
+471||2024-25|Foster Care|99|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+471||2024-25|Homeless|99|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+471||2024-25|Low-Income|99|LtGt|||||0.05|||||0.155|9|0|Sep  3 2025 12:00AM|No L3L4|
