@@ -1,0 +1,19 @@
+﻿OrgIndexId,GradYear,SchoolYear,StudentGroup,GradeLevel,DAT,CountExpected,CountMet,CountPrevPassed,PctMet_OSPI,PctMet,L1,L2,L3,L4,PctFoundational,CountFoundational,PctAltAssessment,DataAsOf,PctMet_Flag,PctMet_Delta
+2072,2032,2021-22,All Students,3,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+2072,2032,2021-22,Low-Income,3,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+2072,,2021-22,All Students,99,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+2072,,2021-22,Low-Income,99,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+2072,2033,2022-23,All Students,3,Lt10orNo,,,,N<10,,,,,,,,,9/8/2023,No L3L4,
+2072,2033,2022-23,Low-Income,3,Lt10orNo,,,,N<10,,,,,,,,,9/8/2023,No L3L4,
+2072,,2022-23,All Students,99,Lt10orNo,,,,N<10,,,,,,,,,9/8/2023,No L3L4,
+2072,,2022-23,Low-Income,99,Lt10orNo,,,,N<10,,,,,,,,,9/8/2023,No L3L4,
+2072,2034,2023-24,All Students,3,Lt10orNo,,,,,,,,,,,,,Sep  9 2024 12:00AM,No L3L4,
+2072,2034,2023-24,Homeless,3,Lt10orNo,,,,,,,,,,,,,Sep  9 2024 12:00AM,No L3L4,
+2072,2034,2023-24,Low-Income,3,Lt10orNo,,,,,,,,,,,,,Sep  9 2024 12:00AM,No L3L4,
+2072,,2023-24,All Students,99,Lt10orNo,,,,,,,,,,,,,Sep  9 2024 12:00AM,No L3L4,
+2072,,2023-24,Homeless,99,Lt10orNo,,,,,,,,,,,,,Sep  9 2024 12:00AM,No L3L4,
+2072,,2023-24,Low-Income,99,Lt10orNo,,,,,,,,,,,,,Sep  9 2024 12:00AM,No L3L4,
+2072,2035,2024-25,All Students,3,cross,,,,0.455,0.454545,0.1818180000000,0.2727270000000,0.2727270000000,0.1818180000000,0.727,,0,Sep  3 2025 12:00AM,OK,0
+2072,2035,2024-25,Low-Income,3,Lt10orNo,,,,,,,,,,,,,Sep  3 2025 12:00AM,No L3L4,
+2072,,2024-25,All Students,99,cross,,,,0.455,0.454545,0.1818180000000,0.2727270000000,0.2727270000000,0.1818180000000,0.727,,0,Sep  3 2025 12:00AM,OK,0
+2072,,2024-25,Low-Income,99,Lt10orNo,,,,,,,,,,,,,Sep  3 2025 12:00AM,No L3L4,

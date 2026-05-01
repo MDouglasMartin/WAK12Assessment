@@ -1,0 +1,5 @@
+﻿OrgIndexId,GradYear,SchoolYear,StudentGroup,GradeLevel,DAT,CountExpected,CountMet,CountPrevPassed,PctMet_OSPI,PctMet,L1,L2,L3,L4,PctFoundational,CountFoundational,PctAltAssessment,DataAsOf,PctMet_Flag,PctMet_Delta
+2142,2024,2016-17,All Students,6,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+2142,2024,2016-17,Military Parent,6,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+2142,,2016-17,All Students,99,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,
+2142,,2016-17,Military Parent,99,Lt10orNo,,,,Suppressed: N<10,,,,,,,,,09/09/2022 12:00:00 AM,No L3L4,

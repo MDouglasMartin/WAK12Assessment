@@ -1,0 +1,7 @@
+﻿OrgIndexId,GradYear,SchoolYear,StudentGroup,GradeLevel,DAT,CountExpected,CountMet,CountPrevPassed,PctMet_OSPI,PctMet,L1,L2,L3,L4,PctFoundational,CountFoundational,PctAltAssessment,DataAsOf,PctMet_Flag,PctMet_Delta
+1978,2028,2024-25,All Students,10,LtGt,,,,,0.19,,,,,0.313,5,0,Sep  3 2025 12:00AM,No L3L4,
+1978,2028,2024-25,Low-Income,10,LtGt,,,,,0.2,,,,,0.333,,0,Sep  3 2025 12:00AM,No L3L4,
+1978,2028,2024-25,Migrant,10,Lt10orNo,,,,,,,,,,,,,Sep  3 2025 12:00AM,No L3L4,
+1978,,2024-25,All Students,99,LtGt,,,,,0.19,,,,,0.313,5,0,Sep  3 2025 12:00AM,No L3L4,
+1978,,2024-25,Low-Income,99,LtGt,,,,,0.2,,,,,0.333,,0,Sep  3 2025 12:00AM,No L3L4,
+1978,,2024-25,Migrant,99,Lt10orNo,,,,,,,,,,,,,Sep  3 2025 12:00AM,No L3L4,
