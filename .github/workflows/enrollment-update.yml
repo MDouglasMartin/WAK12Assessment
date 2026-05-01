@@ -1,4 +1,4 @@
-YAML
+
 name: K-12 Enrollment Update
 on:
   schedule:
