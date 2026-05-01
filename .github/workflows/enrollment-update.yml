@@ -1,0 +1,28 @@
+YAML
+name: K-12 Enrollment Update
+on:
+  schedule:
+    - cron: '0 0 1 * *' 
+  workflow_dispatch:      
+
+jobs:
+  update-data:
+    runs-on: windows-latest
+    permissions:
+      contents: write    
+    
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Run Enrollment Pipeline
+        shell: powershell
+        run: ./scripts/Update-Enrollment.ps1
+
+      - name: Commit and Push Shards
+        run: |
+          git config --global user.name "Sovereign-Audit-Bot"
+          git config --global user.email "audit-bot@github.com"
+          git add Enrollment/
+          git commit -m "Automated update of Enrollment shards and Fact Table" || exit 0
+          git push
