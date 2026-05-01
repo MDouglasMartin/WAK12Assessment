@@ -1,4 +1,4 @@
-PowerShell
+`PowerShell
 # ==============================================================================
 # LSS Pipeline: GitHub-Autonomous Enrollment & Sharding
 # ==============================================================================
@@ -33,6 +33,7 @@ foreach ($year in $datasetIds.Keys | Sort-Object -Descending) {
 $districts = $masterData | Select-Object -ExpandProperty DistrictCode -Unique
 foreach ($code in $districts) {
     $districtData = $masterData | Where-Object { $_.DistrictCode -eq $code } | Sort-Object SchoolYear
-    $districtData | Export-Csv -Path "$shardFolder/Enrollment_D_${code}.csv" -NoTypeInformation
+    $districtData | Export-Csv -Path "$shardFolder/Enrollment_D_${code}.txt" -Delimiter "|" -NoTypeInformation
 }
-$masterData | Sort-Object SchoolYear, DistrictCode | Export-Csv -Path "$outputFolder/Enrollment_Fact_AllYears.csv" -NoTypeInformation
+
+$masterData | Sort-Object SchoolYear, DistrictCode | Export-Csv -Path "$outputFolder/Enrollment_Fact_AllYears.txt" -Delimiter "|" -NoTypeInformation
