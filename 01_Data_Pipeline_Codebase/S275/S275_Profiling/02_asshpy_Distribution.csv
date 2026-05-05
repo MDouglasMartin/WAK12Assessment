@@ -1,0 +1,2 @@
+"Analysis_Type","Row_Count","Non_Zero_Records","Min_Value","Q1_25th","Q2_Median","Q3_75th","Max_Value","Mean_Value","StdDev_Value","Field_Interpretation"
+"asshpy Field Analysis","4430874","4430874","0.00999999977648258","30","192","1026","20800","505.49","600.96","Likely_Hours_or_Large_Dollar_Figure"

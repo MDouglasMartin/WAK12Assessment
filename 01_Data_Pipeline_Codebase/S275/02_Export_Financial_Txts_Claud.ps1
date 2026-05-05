@@ -11,7 +11,7 @@ Import-Module SqlServer
 # Database Connection Variables
 $SqlServer   = "localhost" # Update with actual SQL Server instance if needed
 $Database    = "EdData"    
-$ExportDir   = "D:\_AI_GITHUB\S275"
+$ExportDir   = "D:\_AI_GITHUB\01_Data_Pipeline_Codebase\S275\S275_Shard"
 
 # Ensure Export Directory exists
 if (-not (Test-Path $ExportDir)) {
