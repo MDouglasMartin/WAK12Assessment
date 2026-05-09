@@ -1,0 +1,21 @@
+﻿OrgIndexId|GradYear|SchoolYear|StudentGroup|GradeLevel|DAT|CountExpected|CountMet|CountPrevPassed|PctMet_OSPI|PctMet|L1|L2|L3|L4|PctFoundational|CountFoundational|PctAltAssessment|DataAsOf|PctMet_Flag|PctMet_Delta
+1876|2026|2022-23|All Students|10|LtGt||||<4%|0.04||||||||9/8/2023|No L3L4|
+1876|2026|2022-23|Low-Income|10|LtGt||||<7%|0.07||||||||9/8/2023|No L3L4|
+1876|2026|2022-23|Migrant|10|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+1876||2022-23|All Students|99|LtGt||||<4%|0.04||||||||9/8/2023|No L3L4|
+1876||2022-23|Low-Income|99|LtGt||||<7%|0.07||||||||9/8/2023|No L3L4|
+1876||2022-23|Migrant|99|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+1876|2027|2023-24|All Students|10|LtGt|||||0.08|||||0.1|4||Sep  9 2024 12:00AM|No L3L4|
+1876|2027|2023-24|Homeless|10|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+1876|2027|2023-24|Low-Income|10|LtGt|||||0.12||||||||Sep  9 2024 12:00AM|No L3L4|
+1876|2027|2023-24|Migrant|10|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+1876||2023-24|All Students|99|LtGt|||||0.08|||||0.1|||Sep  9 2024 12:00AM|No L3L4|
+1876||2023-24|Homeless|99|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+1876||2023-24|Low-Income|99|LtGt|||||0.12||||||||Sep  9 2024 12:00AM|No L3L4|
+1876||2023-24|Migrant|99|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+1876|2028|2024-25|All Students|10|LtGt|||||0.18|||||0.177||0|Sep  3 2025 12:00AM|No L3L4|
+1876|2028|2024-25|Low-Income|10|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+1876|2028|2024-25|Migrant|10|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+1876||2024-25|All Students|99|LtGt|||||0.18|||||0.177||0|Sep  3 2025 12:00AM|No L3L4|
+1876||2024-25|Low-Income|99|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+1876||2024-25|Migrant|99|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|

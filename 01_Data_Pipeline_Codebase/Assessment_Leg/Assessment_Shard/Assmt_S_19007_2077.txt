@@ -1,0 +1,15 @@
+﻿OrgIndexId|GradYear|SchoolYear|StudentGroup|GradeLevel|DAT|CountExpected|CountMet|CountPrevPassed|PctMet_OSPI|PctMet|L1|L2|L3|L4|PctFoundational|CountFoundational|PctAltAssessment|DataAsOf|PctMet_Flag|PctMet_Delta
+563|2033|2022-23|All Students|3|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+563|2032|2022-23|All Students|4|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+563|2031|2022-23|All Students|5|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+563||2022-23|All Students|99|ERR_None|19|9|19|47.40%|0.473684|0.1052631580000|0.3684210530000|0.1052631580000|0.3684210530000||||9/8/2023|OK|2.11000000027717E-07
+563|2034|2023-24|All Students|3|LtGt||||0.7|0.7||||||||Sep  9 2024 12:00AM|No L3L4|
+563|2034|2023-24|Homeless|3|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+563|2033|2023-24|All Students|4|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+563|2032|2023-24|All Students|5|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+563||2023-24|All Students|99|ERR_None|22|13|22|0.591|0.590909|0.1818180000000|0.1818180000000|0.1818180000000|0.4090910000000|0.773|17||Sep  9 2024 12:00AM|OK|0
+563||2023-24|Homeless|99|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+563|2035|2024-25|All Students|3|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+563|2034|2024-25|All Students|4|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+563|2033|2024-25|All Students|5|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+563||2024-25|All Students|99|ERR_None|21|12|21|0.571|0.571428|0.0476190000000|0.3809520000000|0.0952381000000|0.4761900000000|0.952||0|Sep  3 2025 12:00AM|OK|9.99999999473644E-08

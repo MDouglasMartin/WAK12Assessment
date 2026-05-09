@@ -1,0 +1,86 @@
+﻿OrgIndexId|GradYear|SchoolYear|StudentGroup|GradeLevel|DAT|CountExpected|CountMet|CountPrevPassed|PctMet_OSPI|PctMet|L1|L2|L3|L4|PctFoundational|CountFoundational|PctAltAssessment|DataAsOf|PctMet_Flag|PctMet_Delta
+336|2017|2014-15|All Students|11|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2017|2014-15|Homeless|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2017|2014-15|Low-Income|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2017|2014-15|Migrant|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2014-15|All Students|99|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2014-15|Homeless|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2014-15|Low-Income|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2014-15|Migrant|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2018|2015-16|All Students|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2018|2015-16|Low-Income|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2018|2015-16|Migrant|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2015-16|All Students|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2015-16|Low-Income|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2015-16|Migrant|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2019|2016-17|All Students|11|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2019|2016-17|Homeless|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2019|2016-17|Low-Income|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2019|2016-17|Migrant|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2016-17|All Students|99|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2016-17|Homeless|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2016-17|Low-Income|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2016-17|Migrant|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2021|2017-18|All Students|10|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2021|2017-18|Homeless|10|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2021|2017-18|Low-Income|10|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2021|2017-18|Migrant|10|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2017-18|All Students|99|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2017-18|Homeless|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2017-18|Low-Income|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2017-18|Migrant|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2022|2018-19|All Students|10|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2022|2018-19|Homeless|10|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2022|2018-19|Low-Income|10|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2022|2018-19|Migrant|10|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2018-19|All Students|99|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2018-19|Homeless|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2018-19|Low-Income|99|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2018-19|Migrant|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2025|2020-21|All Students|9|ERR_None|17|2|17|11.8%|0.117647|0.4705882352941|0.4117647058823|0.0588235294117|0.0588235294117||||09/09/2022 12:00:00 AM|OK|5.88233999981869E-08
+336|2025|2020-21|Foster Care|9|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2025|2020-21|Homeless|9|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2025|2020-21|Low-Income|9|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2025|2020-21|Migrant|9|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2025|2020-21|Military Parent|9|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2023|2020-21|All Students|11|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2023|2020-21|Homeless|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2023|2020-21|Low-Income|11|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2020-21|All Students|99|ERR_None|28|3|28|10.7%|0.107143|0.5000000000000|0.3571428571428|0.0714285714285|0.0357142857142||||09/09/2022 12:00:00 AM|OK|-1.42857300003407E-07
+336||2020-21|Foster Care|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2020-21|Homeless|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2020-21|Low-Income|99|LtGt||||<10%|0.1||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2020-21|Migrant|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2020-21|Military Parent|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2025|2021-22|All Students|10|ERR_None|11|2|11|18.2%|0.181818|0.5454545454545|0.1818181818181|0.0909090909090|0.0909090909090||||09/09/2022 12:00:00 AM|OK|1.81817999989065E-07
+336|2025|2021-22|Homeless|10|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2025|2021-22|Low-Income|10|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2025|2021-22|Migrant|10|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2021-22|All Students|99|ERR_None|11|2|11|18.2%|0.181818|0.5454545454545|0.1818181818181|0.0909090909090|0.0909090909090||||09/09/2022 12:00:00 AM|OK|1.81817999989065E-07
+336||2021-22|Homeless|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2021-22|Low-Income|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336||2021-22|Migrant|99|Lt10orNo||||Suppressed: N<10|||||||||09/09/2022 12:00:00 AM|No L3L4|
+336|2026|2022-23|All Students|10|LtGt||||<20%|0.2||||||||9/8/2023|No L3L4|
+336|2026|2022-23|Homeless|10|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+336|2026|2022-23|Low-Income|10|LtGt||||<25%|0.25||||||||9/8/2023|No L3L4|
+336|2026|2022-23|Migrant|10|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+336|2026|2022-23|Military Parent|10|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+336||2022-23|All Students|99|LtGt||||<20%|0.2||||||||9/8/2023|No L3L4|
+336||2022-23|Homeless|99|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+336||2022-23|Low-Income|99|LtGt||||<25%|0.25||||||||9/8/2023|No L3L4|
+336||2022-23|Migrant|99|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+336||2022-23|Military Parent|99|Lt10orNo||||N<10|||||||||9/8/2023|No L3L4|
+336|2027|2023-24|All Students|10|LtGt|||||0.25|||||0.5|6||Sep  9 2024 12:00AM|No L3L4|
+336|2027|2023-24|Low-Income|10|LtGt|||||0.27|||||0.455|||Sep  9 2024 12:00AM|No L3L4|
+336|2027|2023-24|Migrant|10|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+336||2023-24|All Students|99|LtGt|||||0.25|||||0.5|6||Sep  9 2024 12:00AM|No L3L4|
+336||2023-24|Low-Income|99|LtGt|||||0.27|||||0.455|||Sep  9 2024 12:00AM|No L3L4|
+336||2023-24|Migrant|99|Lt10orNo|||||||||||||Sep  9 2024 12:00AM|No L3L4|
+336|2028|2024-25|All Students|10|LtGt|||||0.27|||||0.455|5|0|Sep  3 2025 12:00AM|No L3L4|
+336|2028|2024-25|Homeless|10|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+336|2028|2024-25|Low-Income|10|LtGt|||||0.3|||||0.4||0|Sep  3 2025 12:00AM|No L3L4|
+336|2028|2024-25|Migrant|10|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+336||2024-25|All Students|99|LtGt|||||0.27|||||0.455|5|0|Sep  3 2025 12:00AM|No L3L4|
+336||2024-25|Homeless|99|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|
+336||2024-25|Low-Income|99|LtGt|||||0.3|||||0.4||0|Sep  3 2025 12:00AM|No L3L4|
+336||2024-25|Migrant|99|Lt10orNo|||||||||||||Sep  3 2025 12:00AM|No L3L4|

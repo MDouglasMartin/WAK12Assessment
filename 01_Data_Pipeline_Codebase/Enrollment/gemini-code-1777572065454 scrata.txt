@@ -1,0 +1,68 @@
+# ==============================================================================
+# LSS Pipeline: 10-Year Automated K-12 Enrollment API Extractor
+# ==============================================================================
+
+$outputFile = "D:\_AI_GITHUB\DOCS\Enrollment_Fact_AllYears.csv"
+$masterData = @()
+
+# The Dictionary of OSPI Report Card Enrollment Socrata IDs
+$datasetIds = @{
+    "2023-24" = "q4ba-s3jc"
+    "2022-23" = "dij7-mbxg"
+    "2021-22" = "ymi4-syjv"
+    "2020-21" = "nvpc-yr7b"
+    "2019-20" = "gtd3-scga"
+    "2018-19" = "u4gd-6wxx"
+    "2017-18" = "fs63-sd8y"
+    "2016-17" = "y85c-tmgt"
+    "2015-16" = "ajpq-2bg9"
+    "2014-15" = "i9gq-g35m"
+}
+
+Write-Host "Initiating 10-Year Socrata API Pipeline..." -ForegroundColor Cyan
+
+foreach ($year in $datasetIds.Keys) {
+    $id = $datasetIds[$year]
+    Write-Host "Fetching and filtering $year (ID: $id)..." -ForegroundColor Yellow
+
+    # The SoQL Query: Filters for District level, strictly K-12 grades, selects 3 columns.
+    $soqlUrl = "https://data.wa.gov/resource/$($id).csv?`$where=organizationlevel='District' AND gradelevel IN ('Kindergarten', '1st Grade', '2nd Grade', '3rd Grade', '4th Grade', '5th Grade', '6th Grade', '7th Grade', '8th Grade', '9th Grade', '10th Grade', '11th Grade', '12th Grade')&`$select=schoolyear,districtcode,all_students&`$limit=100000"
+
+    try {
+        # Fetch the pre-filtered CSV payload directly into memory
+        $csvData = Invoke-RestMethod -Uri $soqlUrl
+        
+        # Socrata returns the column 'all_students'. 
+        # We group by DistrictCode and sum the headcount to get our denominator.
+        $aggregated = $csvData | Group-Object -Property districtcode | ForEach-Object {
+            $schoolYear = $_.Group[0].schoolyear
+            $districtCode = $_.Group[0].districtcode
+            
+            $totalK12 = 0
+            foreach ($row in $_.Group) {
+                # Strip out any random decimals or text OSPI might have left in the number field
+                $cleanNumber = $row.all_students -replace "[^0-9]", ""
+                if (-not [string]::IsNullOrWhiteSpace($cleanNumber)) {
+                    $totalK12 += [int]$cleanNumber
+                }
+            }
+
+            [PSCustomObject]@{
+                SchoolYear = $schoolYear
+                DistrictCode = $districtCode
+                Total_K12_Enrollment = $totalK12
+            }
+        }
+        
+        $masterData += $aggregated
+        Write-Host " -> $year appended successfully." -ForegroundColor Green
+    }
+    catch {
+        Write-Host " -> [!] ERROR fetching $year: $($_.Exception.Message)" -ForegroundColor Red
+    }
+}
+
+# Export the fully compiled 10-year Fact Table
+$masterData | Export-Csv -Path $outputFile -NoTypeInformation
+Write-Host "=============================================================================="
+Write-Host "Extraction Complete. 10-Year Denominator Fact Table saved to: $outputFile" -ForegroundColor Cyan

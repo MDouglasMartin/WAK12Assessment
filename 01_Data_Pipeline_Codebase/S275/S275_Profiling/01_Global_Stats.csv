@@ -1,0 +1,2 @@
+"TableName","Total_Rows","Distinct_Districts","Distinct_Years","Distinct_CertNumbers","Rows_With_Names","Null_Count_asssal","Null_Count_assfte","Null_Count_asshpy","Null_Count_ftehrs","Null_Count_ftedays","Min_asssal","Max_asssal","Min_asshpy","Max_asshpy","Min_assfte","Max_assfte","Min_ftehrs","Max_ftehrs","Min_ftedays","Max_ftedays"
+"vw_S275_Master_Decade","6457968","337","11","301004","6457968","8","57","417638","42569","40953","0","830687","0","20800","0","1","0","1456","0","2080"
